@@ -76,4 +76,4 @@ for (;i <= 100; i++) {
 }
 console.log('conditon:', i);
 
-console.log();
+console.log('talha');
